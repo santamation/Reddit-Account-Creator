@@ -21,4 +21,4 @@ Duplicate it in the proxies file to match the number of usernames you've input. 
 
 ----------------------------------------------------------------------------------------------------------
 Donate BTC?
-1n5SP53tMdNbCmMXGmNeQKr8RZiFckXRS
+
